@@ -9,9 +9,11 @@ Welcome to the Global Hotel and Resorts (GHR) - Revenue Optimization Project rep
 Fostering mutually beneficial customer relationships, creating value, and ensuring a prosperous future for Global Hotel and Resorts (GHR). This project identifies strategies for maximizing revenue while enhancing customer satisfaction.
 
 ## Key Objectives
-Optimize revenue through dynamic pricing, inventory management, and reducing last-minute cancellations.
-Leverage data-driven insights to enhance customer retention and improve operational efficiency.
-Improve decision-making with a comprehensive analysis of booking data, cancellation trends, and customer behavior.
+-Optimize revenue through dynamic pricing, inventory management, and reducing last-minute cancellations.
+
+-Leverage data-driven insights to enhance customer retention and improve operational efficiency.
+
+-Improve decision-making with a comprehensive analysis of booking data, cancellation trends, and customer behavior.
 
 ## Recommendations
 ### 1. Reduce Revenue Loss from Last-Minute Cancellations
@@ -30,20 +32,32 @@ Offer discounts or packages during weak revenue months (e.g., July, August, Dece
 
 ## Data Preparation
 -Address Missing Values: Imputed values for assigned rooms, default customer numbers, and travel agent information.
+
 -Streamlined Features: Removed noise and unused columns, retaining only impactful features.
+
 -Improved Data Consistency: Standardized handling of specific cases, such as country codes and booking channels.
 
 ## Data Analysis Highlights
 -Top Countries by Visitors: Strategies to tailor offerings for customers from high-booking regions (e.g., Portugal).
+<img width="390" alt="Screenshot 2025-01-13 at 8 46 37 PM" src="https://github.com/user-attachments/assets/1c543815-70f0-42b0-8a05-a00d13d5d9f9" />
+
 -Booking Changes: Implement nominal change fees to discourage frequent modifications.
+<img width="295" alt="Screenshot 2025-01-13 at 9 28 32 PM" src="https://github.com/user-attachments/assets/c57bda1c-dc82-4e74-a77a-105bfd362b6b" />
+
 -Seasonal Revenue Trends: Align pricing and promotions with booking demand and weather-related variations.
+<img width="308" alt="Screenshot 2025-01-13 at 9 29 22 PM" src="https://github.com/user-attachments/assets/979ac5eb-fcef-4912-9b2b-ec865ca220dd" />
+
 
 ## Insights
-Potential revenue loss identified from last-minute cancellations and free upgrades totals to significant sums.
-Over 86% of bookings rely on tour operators and travel agents. Offering incentives to these partners and promoting direct bookings are critical areas of focus.
+-Potential revenue loss identified from last-minute cancellations and free upgrades totals to significant sums.
+
+-Over 86% of bookings rely on tour operators and travel agents. Offering incentives to these partners and promoting direct bookings are critical areas of focus.
 
 ## Technologies and Tools
 Languages: Python
+
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
 Data Platforms: SQL, Excel
+
 Other Tools: Jupyter Notebooks, PowerBI
