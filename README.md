@@ -39,12 +39,15 @@ Offer discounts or packages during weak revenue months (e.g., July, August, Dece
 
 ## Data Analysis Highlights
 -Top Countries by Visitors: Strategies to tailor offerings for customers from high-booking regions (e.g., Portugal).
+
 <img width="390" alt="Screenshot 2025-01-13 at 8 46 37 PM" src="https://github.com/user-attachments/assets/1c543815-70f0-42b0-8a05-a00d13d5d9f9" />
 
 -Booking Changes: Implement nominal change fees to discourage frequent modifications.
+
 <img width="295" alt="Screenshot 2025-01-13 at 9 28 32 PM" src="https://github.com/user-attachments/assets/c57bda1c-dc82-4e74-a77a-105bfd362b6b" />
 
 -Seasonal Revenue Trends: Align pricing and promotions with booking demand and weather-related variations.
+
 <img width="308" alt="Screenshot 2025-01-13 at 9 29 22 PM" src="https://github.com/user-attachments/assets/979ac5eb-fcef-4912-9b2b-ec865ca220dd" />
 
 
