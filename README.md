@@ -1,6 +1,6 @@
 # Global Hotel and Resorts (GHR) - Revenue Optimization
-![image](https://github.com/user-attachments/assets/a3ee7a07-1e07-4e97-b2f6-7b1172556cc3)
-![image](https://github.com/user-attachments/assets/0fc36d36-973c-4245-86c8-ea750570b447)
+<img src="https://github.com/user-attachments/assets/a3ee7a07-1e07-4e97-b2f6-7b1172556cc3" alt="Image 1" width="300">
+<img src="https://github.com/user-attachments/assets/0fc36d36-973c-4245-86c8-ea750570b447" alt="Image 2" width="300">
 
 ##Introduction
 Welcome to the Global Hotel and Resorts (GHR) - Revenue Optimization Project repository. This project focuses on identifying and implementing innovative strategies to maximize revenue while enhancing customer satisfaction for GHR, a global leader in the hospitality industry. With data-driven methodologies, our team has analyzed various dimensions of revenue generation, customer preferences, and operational efficiencies. The project encapsulates a deep dive into key performance metrics, predictive analytics, and actionable insights that support GHR's goal of fostering stronger customer relationships and ensuring sustainable growth in a competitive market. By leveraging state-of-the-art tools and techniques, this project not only delivers meaningful solutions to GHR but also sets a standard for revenue management within the hospitality sector.
